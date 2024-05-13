@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        DOCKER_IMAGE_NAME = 'muhammadahmedsuhail/mlops-a-1:final'
+        DOCKER_IMAGE_NAME = 'mlops629/mlops-a-1'
     }
 
     stages {
